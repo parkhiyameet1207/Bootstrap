@@ -1,0 +1,26 @@
+@media (min-width:1200px){
+
+}
+@media(max-width:1199px){
+
+.about-us-heading span{
+           color: white; 
+}
+
+}
+@media (max-width:991px){
+
+}
+@media(max-width:767px){
+
+}
+@media (max-width:575px){
+ .container-2{
+          width: 100%;
+          margin: 0 auto;
+ }
+ .d-xs-none{
+          display: none;
+ }
+}
+
